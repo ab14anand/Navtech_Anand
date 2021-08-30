@@ -5,8 +5,8 @@
 1)I have designed ER using visio
 
 /*Bulk Insert of Product*/
-1)In Json formatthe values are getting inserted and also we do the same by inserting in XML way as weel
-2)we can push more 1 record at a time using this query or we can  update the price against the product code.
+1)In Json format the values are getting inserted and also we do the same by XML format way as well
+2)we can push more than 1 record at a time using this query or we can  update the price against the product code.
 3) In same way we also do attibute mapping in a bulk way of insertion.
 
 /*Trigger*/
